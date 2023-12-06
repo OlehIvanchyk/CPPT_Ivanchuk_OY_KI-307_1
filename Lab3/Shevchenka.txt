@@ -1,3 +1,0 @@
-Call -> get_Street():: return Street (Shevchenka)
-Call -> get_Num_Windows:: return Num_Windows(100)
-Call -> get_Num_Floors():: return Num_Floors(5)
